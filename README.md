@@ -18,35 +18,35 @@ Segue abaixo ordem e organização dos scripts utilizados para o projeto.
 
 ## Configuração 2
 ### Features normais, médias móveis, entropia de Shannon e ARIMA;
-Arquivo: conf02_script.ipynb
+- Arquivo: conf02_script.ipynb
 #### Grupo A:
-Arquivo: /poseiddon/GROUP A/CONFIGURATION 2/conf02_script.ipynb
+- Arquivo: /poseiddon/GROUP A/CONFIGURATION 2/conf02_script.ipynb
 #### Grupo B:
-Arquivo: /poseiddon/GROUP B/CONFIGURATION 2/conf02_CIC2018_script.ipynb
+- Arquivo: /poseiddon/GROUP B/CONFIGURATION 2/conf02_CIC2018_script.ipynb
 
 ## Configuração 3
 ### Features normais, médias móveis, entropia de Shannon e Holder;
 #### Grupo A:
-Arquivo: /poseiddon/GROUP A/CONFIGURATION 3/conf03_script.ipynb
+- Arquivo: /poseiddon/GROUP A/CONFIGURATION 3/conf03_script.ipynb
 
 #### Grupo B:
-Arquivo: /poseiddon/GROUP B/CONFIGURATION 3/conf03_CIC2018_script.ipynb
+- Arquivo: /poseiddon/GROUP B/CONFIGURATION 3/conf03_CIC2018_script.ipynb
 
 ## Configuração 4
 ### Features normais, entropia de Shannon e Holder;
 #### Grupo A:
-Arquivo: /poseiddon/GROUP A/CONFIGURATION 4/conf04_script.ipynb
+- Arquivo: /poseiddon/GROUP A/CONFIGURATION 4/conf04_script.ipynb
 
 #### Grupo B:
-Arquivo: /poseiddon/GROUP B/CONFIGURATION 4/conf04_CIC2018_script.ipynb
+- Arquivo: /poseiddon/GROUP B/CONFIGURATION 4/conf04_CIC2018_script.ipynb
 
 ## Configuração 5
 ### Médias móveis simples e exponenciais e entropia de Shannon.
 #### Grupo A:
-Arquivo: /poseiddon/GROUP A/CONFIGURATION 5/conf05_script.ipynb
+- Arquivo: /poseiddon/GROUP A/CONFIGURATION 5/conf05_script.ipynb
 
-> Grupo B:
-Arquivo: /poseiddon/GROUP B/CONFIGURATION 5/conf05_CIC2018_script.ipynb
+#### Grupo B:
+- Arquivo: /poseiddon/GROUP B/CONFIGURATION 5/conf05_CIC2018_script.ipynb
 
 ## Grupo C - Confiruração 5
-Arquivo: /poseiddon/GROUP C/conf05_group_C_CIC171823_script.ipynb
+- Arquivo: /poseiddon/GROUP C/conf05_group_C_CIC171823_script.ipynb
