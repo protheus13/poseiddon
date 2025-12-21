@@ -11,41 +11,41 @@ Segue abaixo ordem e organização dos scripts utilizados para o projeto.
 
 ## Configuração 1
 ### Features normais, médias móveis, ARIMA, entropia de Shannon e Holder;
-> Grupo A: 
+#### Grupo A: 
 - Arquivo: /poseiddon/GROUP A/CONFIGURATION 1/conf01_script.ipynb
-> Grupo B:
+#### Grupo B:
 - Arquivo: /poseiddon/GROUP B/CONFIGURATION 1/conf01_CIC2018_script.ipynb
 
 ## Configuração 2
 ### Features normais, médias móveis, entropia de Shannon e ARIMA;
 Arquivo: conf02_script.ipynb
-> Grupo A:
+#### Grupo A:
 Arquivo: /poseiddon/GROUP A/CONFIGURATION 2/conf02_script.ipynb
-> Grupo B:
+#### Grupo B:
 Arquivo: /poseiddon/GROUP B/CONFIGURATION 2/conf02_CIC2018_script.ipynb
 
 ## Configuração 3
 ### Features normais, médias móveis, entropia de Shannon e Holder;
-> Grupo A:
+#### Grupo A:
 Arquivo: /poseiddon/GROUP A/CONFIGURATION 3/conf03_script.ipynb
 
-> Grupo B:
+#### Grupo B:
 Arquivo: /poseiddon/GROUP B/CONFIGURATION 3/conf03_CIC2018_script.ipynb
 
 ## Configuração 4
 ### Features normais, entropia de Shannon e Holder;
-> Grupo A:
+#### Grupo A:
 Arquivo: /poseiddon/GROUP A/CONFIGURATION 4/conf04_script.ipynb
 
-> Grupo B:
+#### Grupo B:
 Arquivo: /poseiddon/GROUP B/CONFIGURATION 4/conf04_CIC2018_script.ipynb
 
 ## Configuração 5
 ### Médias móveis simples e exponenciais e entropia de Shannon.
-> Grupo A:
+#### Grupo A:
 Arquivo: /poseiddon/GROUP A/CONFIGURATION 5/conf05_script.ipynb
 
-> Grupo B:
+#### Grupo B:
 Arquivo: /poseiddon/GROUP B/CONFIGURATION 5/conf05_CIC2018_script.ipynb
 
 ## Grupo C - Confiruração 5
