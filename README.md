@@ -45,7 +45,7 @@ Arquivo: /poseiddon/GROUP B/CONFIGURATION 4/conf04_CIC2018_script.ipynb
 #### Grupo A:
 Arquivo: /poseiddon/GROUP A/CONFIGURATION 5/conf05_script.ipynb
 
-#### Grupo B:
+> Grupo B:
 Arquivo: /poseiddon/GROUP B/CONFIGURATION 5/conf05_CIC2018_script.ipynb
 
 ## Grupo C - Confiruração 5
