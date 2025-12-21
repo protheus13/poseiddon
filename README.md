@@ -10,7 +10,7 @@ IMPORTANT: Repository under update, scripts in the refinement phase for exposure
 
 Below is the order and organization of the scripts used for the project.
 
-##Configuration 1
+## Configuration 1
 ### Normal characteristics, moving averages, ARIMA, Shannon entropy and Holder;
 
 #### Group A:
@@ -18,7 +18,7 @@ Below is the order and organization of the scripts used for the project.
 #### Group B:
 - File: /poseiddon/GRUPO B/CONFIGURAÇÃO 1/conf01_CIC2018_script.ipynb
 
-##Configuration 2
+## Configuration 2
 ### Normal characteristics, moving averages, Shannon entropy and ARIMA;
 
 - File: conf02_script.ipynb
@@ -27,7 +27,7 @@ Below is the order and organization of the scripts used for the project.
 #### Group B:
 - File: /poseiddon/GROUP B/CONFIGURATION 2/conf02_CIC2018_script.ipynb
 
-##Configuration 3
+## Configuration 3
 ### Normal characteristics, moving averages, Shannon and Holder entropy;
 
 ### Group A:
@@ -37,7 +37,7 @@ Below is the order and organization of the scripts used for the project.
 
 - File: /poseiddon/GROUP B/CONFIGURATION 3/conf03_CIC2018_script.ipynb
 
-##Configuration 4
+## Configuration 4
 ### Normal characteristics, Shannon and Holder entropy;
 
 #### Group A:
@@ -48,7 +48,7 @@ Below is the order and organization of the scripts used for the project.
 
 - File: /poseiddon/GROUP B/CONFIGURATION 4/conf04_CIC2018_script.ipynb
 
-##Configuration 5
+## Configuration 5
 
 ### Simple and exponential moving averages and Shannon entropy.
 
